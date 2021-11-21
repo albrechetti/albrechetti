@@ -1,7 +1,7 @@
 ### Olá, meu nome é Luan Albrechetti 👋
 
-- 🔭 Estou trabalhando com front-end
-- 🌱 Estou apredendo Dart e Flutter
+- 🔭 Estou trabalhando com Flutter 
+- 🌱 Estou apredendo NextJS
 - 😄 Pronouns: Ele/dele
 - ⚡ Fun fact: Adoro ciências humanas e atualmente estou cursando Filosofia, meu primeiro emprego como programador foi trabalhando em um APP para o extinto Windows Phone  , participei do também extinto projeto Firefox OS da Mozilla (Desenvolvendo Games para o SO), já fiz alguns trabalhos como ilustrador e já fui guitarrista em uma banda de rock 🎸 🤘  
 
