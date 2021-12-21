@@ -3,7 +3,7 @@
 - 🔭 Estou trabalhando com Flutter 
 - 🌱 Estou apredendo NextJS
 - 😄 Pronouns: Ele/dele
-- ⚡ Fun fact: Adoro ciências humanas e atualmente estou cursando Filosofia, meu primeiro emprego como programador foi trabalhando em um APP para o extinto Windows Phone  , participei do também extinto projeto Firefox OS da Mozilla (Desenvolvendo Games para o SO), já fiz alguns trabalhos como ilustrador e já fui guitarrista em uma banda de rock 🎸 🤘  
+- ⚡ Fun fact: Adoro ciências humanas, além de claro tecnologia! Atualmente estou cursando Filosofia e Análise e Desenvolvimento de Sistemas, meu primeiro emprego como programador foi trabalhando em um APP para o extinto Windows Phone, participei do também extinto projeto Firefox OS da Mozilla (Desenvolvendo Games para o SO), já fiz alguns trabalhos como ilustrador e já fui guitarrista em uma banda de rock 🎸 🤘  
 
  <div>
   <a href="https://github.com/albrechetti">
