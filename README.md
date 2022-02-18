@@ -5,11 +5,6 @@
 - 😄 Pronouns: Ele/dele
 - ⚡ Fun fact: Adoro ciências humanas, além de claro tecnologia! Atualmente estou cursando Filosofia e Análise e Desenvolvimento de Sistemas, meu primeiro emprego como programador foi trabalhando em um APP para o extinto Windows Phone, participei do também extinto projeto Firefox OS da Mozilla (Desenvolvendo Games para o SO), já fiz alguns trabalhos como ilustrador e já fui guitarrista em uma banda de rock 🎸 🤘  
 
- <div>
-  <a href="https://github.com/albrechetti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=albrechetti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albrechetti&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Albrechetti-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
